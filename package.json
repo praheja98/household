@@ -1,0 +1,21 @@
+{
+  "name": "householdproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cookie-session": "^2.0.0-beta.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.1",
+    "md5": "^2.2.1",
+    "mongoose": "^5.4.15",
+    "nodemailer": "^5.1.1",
+    "uuid": "^3.3.2"
+  }
+}
